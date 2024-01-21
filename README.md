@@ -1,2 +1,2 @@
 # Linux
-Complete explanation and interview base Linux for devops and 
+Complete explanation and interview base Linux for Devops and Cloud 
